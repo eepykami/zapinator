@@ -1,5 +1,5 @@
 # zapinator
-Code and PCB for a spot welder.
+Arduino-based spot welder controller project.
 
  ![circuit](/images/circuit.jpg)
  ![welder](/images/gg.jpg)
